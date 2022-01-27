@@ -11,4 +11,10 @@ export default {
     }
   }
 }
-</script>
+</script>S
+
+<style scoped>
+h1{
+  color: red;
+}
+</style>
